@@ -1,0 +1,2 @@
+# ideal-lamp
+django app
